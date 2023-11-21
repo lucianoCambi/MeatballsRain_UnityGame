@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c1f28f34bfb522448a0d8270c283d21f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rowPrefab: {fileID: 8127109587527717187, guid: 914a806fa0653e84797b33251936b075,
+      type: 3}
+  - rowsParent: {instanceID: 0}
+  - messageText: {instanceID: 0}
+  - emailInput: {instanceID: 0}
+  - passwordInput: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
