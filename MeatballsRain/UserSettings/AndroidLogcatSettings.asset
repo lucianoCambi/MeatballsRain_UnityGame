@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "RF8T403C7EP",
         "name": "com.DefaultCompany.MeatballsRain",
-        "processId": 20586,
+        "processId": 15233,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -12,6 +12,12 @@
             "deviceId": "RF8T403C7EP",
             "name": "com.DefaultCompany.MeatballsRain",
             "processId": 20586,
+            "exited": false
+        },
+        {
+            "deviceId": "RF8T403C7EP",
+            "name": "com.DefaultCompany.MeatballsRain",
+            "processId": 15233,
             "exited": false
         }
     ],

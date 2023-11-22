@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="C:\Users\cambi\Desktop\unity_projects\MeatballsRain\Library\Bee\Android\Prj\Mono2x\Gradle\launcher"
+    dir="C:\Users\cambi\Desktop\unity_projects\MeatballsRain_UnityGame\MeatballsRain_UnityGame\MeatballsRain\Library\Bee\Android\Prj\Mono2x\Gradle\launcher"
     name=":launcher"
     type="APP"
     maven="Gradle:launcher:"
